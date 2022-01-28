@@ -3958,7 +3958,7 @@ input, select, textarea {
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
-		width: calc(100% - 4rem);
+		width: calc(100% );
 		max-width: 72rem;
 		z-index: 2;
 	}
